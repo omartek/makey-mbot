@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "honkit": "^3.7.4"
+  },
+  "dependencies": {
+    "gitbook-plugin-collapsible-menu": "^1.0.3",
+    "gitbook-plugin-intopic-toc": "^1.1.1"
   }
 }

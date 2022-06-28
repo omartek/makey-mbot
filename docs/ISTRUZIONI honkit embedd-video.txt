@@ -1,0 +1,38 @@
+HONKIT - ISTRUZIONI
+
+Manuale on line
+    https://honkit.netlify.app/setup.html
+
+Installazione in locale
+    $ npm install honkit --save-dev
+
+Inizializzazione di un libro
+    $ npx honkit init
+
+Preview e creazione
+    $ npx honkit serve
+    $ npx honkit build
+
+Installazione di un plugin (cerca su https://www.npmjs.com/)
+    $ npm install gitbook-plugin-collapsible-menu
+    $ npm install gitbook-plugin-
+
+Creazione del file book.json per attivare i plugin
+    {
+        "plugins": [
+            "intopic-toc",
+            "collapsible-menu"
+        ]
+    }
+
+Generare PDF o EPUB
+    $ npx honkit pdf ./ ./mybook.pdf
+    $ npx honkit epub ./ ./mybook.epub
+
+CODICE PER INCORPORARE UN VIDEO
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
