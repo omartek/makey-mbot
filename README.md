@@ -6,7 +6,7 @@ Estratto da "Indicazioni Nazionali (2012)"
 
 *È specifico compito della tecnologia quello di promuovere forme di pensiero che preparino e sostengano **interventi trasformativi** dell’ambiente attraverso un uso consapevole delle risorse nel rispetto di vincoli di vario genere.*
 
-***Il laboratorio**, inteso soprattutto come modalità per accostarsi in modo attivo e operativo a situazioni o fenomeni oggetto di studio, rappresenta il riferimento costante per la didattica della tecnologia; esso combina la progettazione e la realizzazione di semplici prodotti originali con la modifica migliorativa, nel senso dell’efficacia o dell’efficienza, di quelli già esistenti.*
+**Il laboratorio**, inteso soprattutto come modalità per accostarsi in modo attivo e operativo a situazioni o fenomeni oggetto di studio, rappresenta il riferimento costante per la didattica della tecnologia; esso combina la progettazione e la realizzazione di semplici prodotti originali con la modifica migliorativa, nel senso dell’efficacia o dell’efficienza, di quelli già esistenti.
 
 *Quando possibile, gli alunni potranno essere introdotti ad alcuni **linguaggi di programmazione** particolarmente semplici e versatili che si prestano a sviluppare il gusto per l’ideazione e la realizzazione di progetti.*
 

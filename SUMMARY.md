@@ -10,3 +10,7 @@
 	* [Progetti da realizzare](makeymakey.md#progetti-realizzare)
 	* [Scratch](makeymakey.md#makey-scratch)
 	* [Altri siti](makeymakey.md#makey-altrisiti)
+* [mBot2](mbot2.md)
+	* [mBot2 - specifiche](mbot2.md#mBot2)
+	* [mBlock](mbot2.md#mBlock)
+* [PDF del sito](pdf.md)

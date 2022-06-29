@@ -10,6 +10,8 @@ Intervento di [Jay Silver a TED](https://www.ted.com/talks/jay_silver_hack_a_ban
 
 ![makey-kit](makey-kit.png)
 
+[A quest'indirizzo](https://oshwlab.com/GerryChen/Makey_Makey_Standard_Kit_Open_hardware-PN5nhyQ8q) si trova lo schema del PCB di Makey Makey (open hardware).
+
 ### Materiali utili durante le attività
 
 - Alluminio tipo domopack
@@ -17,13 +19,22 @@ Intervento di [Jay Silver a TED](https://www.ted.com/talks/jay_silver_hack_a_ban
 - Carta
 - Cartone
 - Fili di rame (materiale elettrico)
-- Fermacampione
+- Fil di ferro
+- Fermacampioni
 - Forbici
 - Graffette
 - Matite morbide (HB->6B)
 - Nastro isolante
-- Pasta modellabile
+- Pasta modellabile (pongo, didò, play-doh, pasta di sale)
 - Puntine
+
+### Cavo OTG
+
+È possibile collegare Makey Makey ad un tablet utilizzando un cavo OTG.
+
+![makey-OTGcavo](makey-OTGcavo.png)
+
+![makey-OTG](makey-OTG.png)
 
 ## Home page e risorse on line {#makey-homep}
 
