@@ -29,6 +29,9 @@ Generare PDF o EPUB
     $ npx honkit pdf ./ ./mybook.pdf
     $ npx honkit epub ./ ./mybook.epub
 
+PER APRIRE PDF O ALTRO
+<a href="MakeyMakey.pdf" target="_blank">Scarica il PDF del contenuto del sito</a>
+
 CODICE PER INCORPORARE UN VIDEO
 
 <iframe width="560" height="315"
