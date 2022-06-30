@@ -1,4 +1,4 @@
-# Tecnologia: indicazioni nazionali {#indicazioni-nazionali}
+# Indicazioni nazionali: Tecnologia {#indicazioni-nazionali}
 
 Estratto da "Indicazioni Nazionali (2012)"
 

@@ -1,10 +1,10 @@
 # Summary
 
-* [TECNOLOGIA indicazioni nazionali](README.md)
+* [Indicazioni nazionali: Tecnologia](README.md)
 	* [Estratto Indicazioni](README.md#indicazioni-nazionali) 
 	* [Obiettivi di apprendimento](README.md#learning-obj)
 	* [Lavorare in gruppo](README.md#lavorare-gruppo)
-* [MAKEY MAKEY](makeymakey.md)
+* [Makey Makey](makeymakey.md)
 	* [Cosa serve: kit e altro](makeymakey.md#makey-kit)
 	* [Home page e risorse on line](makeymakey.md#makey-homep)
 	* [Progetti da realizzare](makeymakey.md#progetti-realizzare)
@@ -13,4 +13,8 @@
 * [mBot2](mbot2.md)
 	* [mBot2 - specifiche](mbot2.md#mBot2)
 	* [mBlock](mbot2.md#mBlock)
+* [BeeBot](beebot.md)
+	* [Estratto Indicazioni](beebot.md#indicazioni-nazionali)
+	* [Fasi e attività](beebot.md#fasi-attivita)
+	* [Caramellandia: il racconto](beebot.md#caramellandia-racconto)
 * [PDF del sito](pdf.md)
